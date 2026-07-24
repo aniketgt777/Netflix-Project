@@ -1,4 +1,4 @@
-# 📺 Netflix Data Analysis using Python & Pandas
+# 📺 Netflix Data Cleaning using Python & Pandas
 
 ## 📌 Project Overview
 
