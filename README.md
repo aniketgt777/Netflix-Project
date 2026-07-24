@@ -20,9 +20,7 @@ This project analyzes the Netflix Titles dataset using Python and Pandas. The go
 
 - Python
 - Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook / VS Code
+- VS Code
 
 ---
 
