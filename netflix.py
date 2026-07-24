@@ -97,3 +97,6 @@ df.columns = df.columns.str.replace("_", " ").str.title()
 
 print("\n--------------Final Output----------------")
 print(df.info())
+
+df.to_csv(r"D:\Python Program\Python Gui or Pandas\netflix_cleaned.csv", index=False)
+
